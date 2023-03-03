@@ -1,3 +1,3 @@
-module github.com/dodaxx/appease-gocolly
+module github.com/dodaxx/brocolly
 
 go 1.19
